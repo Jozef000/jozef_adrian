@@ -5,4 +5,4 @@ Znajomość języków zawsze będzie w cenie. Dzięki temu porozumiemy się zagr
 
 ## Fundamenty fenomenu interlingwy
 
-Starannie wyselekcjonowane słownictwo, przejrzyste zasady słowotwórstwa oraz uproszczona gramatyka są fundamentami fenomenu Interlingwy. Umożliwia to zrozumienie tego sztucznego języka przez miliony osób, a według opinii specjalistów z Międzynarodowego Stowarzyszenia Języka Pomocniczego, na naukę wystarczy 15 dni. Nawet jeśli ktoś nie ma zdolności językowych, to i tak powinien opanować Interlingwę w ciągu miesiąca."
+Starannie wyselekcjonowane słownictwo, przejrzyste zasady słowotwórstwa oraz uproszczona gramatyka są fundamentami fenomenu Interlingwy. Umożliwia to zrozumienie tego sztucznego języka przez miliony osób, a według opinii specjalistów z Międzynarodowego Stowarzyszenia Języka Pomocniczego, na naukę wystarczy 15 dni. Nawet jeśli ktoś nie ma zdolności językowych, to i tak powinien opanować Interlingwę w ciągu miesiąca. "
