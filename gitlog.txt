@@ -1,0 +1,9 @@
+0633cd2e01b59453d4fe42979d92b29d7354406b Merge pull request #2 from Jozef000/wikipedia
+f38cbb7191da0c17829e638b44767ad021fd2792 Wikipedia Day Events
+32fca99eccda70feac4b80bc7042c41bdb510fdc Wikipedia Day
+87ebe8d6eb34b115382f6106e8dfff09923ff7a1 Merge pull request #1 from Jozef000/interlingwa
+91d3ca256707cabb62337b93bc46d0a75d072b33 Fundamenty fenomenu interlingwy
+98f459fe947d8b54bab5b76b028aa050cf2e170e Delete New Text Document.txt
+d9806d149e28f9a56de1e2e4a95d73cc8458145d Fundamenty fenomenu interlingwy
+f511690ce16297580f59138d8646b5688a30d0ad temote_test
+5a86f6fcddd7b039ad02872f3161a73ac8269ed1 Initial commit
